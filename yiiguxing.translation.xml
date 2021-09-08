@@ -1,6 +1,17 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="traffic" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630554784083" />
+    <option name="lastTrimTime" value="1630994202210" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
