@@ -4,13 +4,13 @@
     <property name="created">2021-09-02T11:28:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-13T21:36:00</property>
+    <property name="modified">2021-09-14T10:45:28</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
@@ -62,6 +62,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="98c379" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
     <option name="FILESTATUS_MODIFIED" value="e5c17c" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
