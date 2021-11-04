@@ -1,0 +1,15 @@
+<application>
+  <component name="HadoopSettings">
+    <option name="configs">
+      <map>
+        <entry key="Hadoop connection@HadoopMonitoringConnections@-181471241204350970">
+          <value>
+            <HadoopConfig>
+              <option name="selectedPage" value="Info" />
+            </HadoopConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
