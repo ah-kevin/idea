@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="elasticsearch">
+      <artifact id="Elasticsearch" name="Elasticsearch" use="true" version="7.10.2" />
+    </driver>
     <driver id="clickhouse">
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
     </driver>
