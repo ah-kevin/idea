@@ -42,4 +42,12 @@
       </list>
     </option>
   </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="_Jw__3Bq_users_parquet_0.data.csv/users.parquet(downloaded)" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/3j/rlsbrqpj0wggyg5zzr8srv_h0000gn/T/HDFS-downloaded" />
+  </component>
 </application>
