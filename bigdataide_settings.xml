@@ -12,12 +12,13 @@
           <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
           <option name="groupId" value="KafkaConnections" />
           <option name="innerId" value="Kafka connection@KafkaConnections@6696589380483803900" />
-          <option name="name" value="Kafka connection" />
+          <option name="name" value="hadoop1 - Kafka connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="-1" />
-          <option name="uri" value="127.0.0.1:9092" />
+          <option name="uri" value="hadoop1:9092" />
         </ExtendedConnectionData>
         <ExtendedConnectionData>
+          <option name="enabled" value="false" />
           <option name="extended">
             <map>
               <entry key="enableBasicAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
