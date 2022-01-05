@@ -2,5 +2,6 @@
   <component name="KafkaSettings">
     <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@6696589380483803900" />
     <option name="showFullTopicConfig" value="true" />
+    <option name="showInternalTopics" value="true" />
   </component>
 </application>
