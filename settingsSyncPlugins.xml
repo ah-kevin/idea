@@ -14,17 +14,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="cn.juhe.silk.plugin.id">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
@@ -52,17 +41,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.ideolog">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.intellij.zh">
           <value>
             <PluginData>
@@ -85,46 +63,12 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="dev.meanmail.plugin.nginx-intellij-plugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="izhangzhihao.rainbow.brackets">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="mobi.hsz.idea.gitignore">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                  <option value="com.intellij.modules.vcs" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="org.intellij.scala">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
             </PluginData>
